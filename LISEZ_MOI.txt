@@ -1,0 +1,6 @@
+TEACHER LAB V7 · by BROT2YOU
+Ouvrez index.html dans un navigateur ou déployez le contenu de ce dossier sur GitHub Pages.
+Les réponses restent dans le navigateur (stockage local). Exportez une sauvegarde JSON régulièrement.
+Téléchargez le livret DOCX/PDF, complétez-le et déposez-le sur le Digipad indiqué par le formateur.
+Le guide formateur DOCX/PDF est fourni séparément.
+Aucune connexion automatique à Digipad et aucun envoi de données.
